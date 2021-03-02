@@ -7,7 +7,7 @@ body{
 }
 
 .parent{ background-color: #23424A;
-    padding: 20px;
+    padding: 10px;
 margin: 10px auto;
 width: 96%;
 
@@ -18,8 +18,10 @@ width: 96%;
 
 .child{
     background-color: #38cfd9;
-    padding-block: 5em;
-    padding-inline: 1em;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    padding-left: 1em;
+    padding-right: 1em;
  
    
 }
